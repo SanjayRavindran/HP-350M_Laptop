@@ -8,6 +8,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 ***DO NOT BLAME ME IF YOU HAVE DIFFERENT MACHINE AND MADE SOME MESS ON YOUR MACHINE ***
 
 ## Configuration is as follows ##
+- Laptop : hp dv6 3127dx
 - Intel Core i3 350M with Intel Integrated HD graphics 
 - 2x 2 GB RAM at 1067 MHz
 - HM55 Chipset
