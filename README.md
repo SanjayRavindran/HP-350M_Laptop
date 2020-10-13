@@ -28,9 +28,10 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 - WiFi
 
 ## Doesn't work
-- Trackpad tap to click gesture
 - Brightness control (Cannot be fixed using SSDT-PNLF.aml)
 - Booting without USB (Cannot fix using Duetpkg but the bootable USB works by using Duet pkg)
+- Trackpad tap to click gesture
+- Battery percentage
 - Webcam
 
 ### youtube 
