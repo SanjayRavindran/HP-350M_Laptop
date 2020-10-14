@@ -1,5 +1,5 @@
 # HP-350M_Laptop #
-## EFI for Ryzen Hackintosh Machine
+## EFI for Hackintosh Machine
 If you have the Exact same Hardware configuration as like me you can use this EFI and also can use for verification purpose.
 
 ### If you are successful please consider donating via PayPal...
