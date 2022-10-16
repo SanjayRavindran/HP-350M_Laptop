@@ -37,10 +37,6 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 ### youtube 
 - link: https://www.youtube.com/watch?v=WnQPFkjuLTw
 
- ### Donate Me!!!
-Consider Donating this will tremendously helpful for me
-https://paypal.me/SanjayRavindran?locale.x=en_GB
-
 ### Credits:
 
 - Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs
